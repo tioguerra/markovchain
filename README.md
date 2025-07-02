@@ -1,11 +1,10 @@
 # Implementação de Cadeia de Markov
 
-Este projeto contém um código em Python que implementa e simula uma Cadeia de Markov simples. A estrutura da cadeia, incluindo seus estados e probabilidades de transição, foi baseada em um diagrama encontrado no arquivo `Q-Learning_SistIntel2025_Handout.tex`, que serve como material de referência sobre Aprendizado por Reforço.
+Este projeto contém um código em Python que implementa e simula uma Cadeia de Markov simples. A estrutura da cadeia, incluindo seus estados e probabilidades de transição, foi baseada em um diagrama de referência sobre Aprendizado por Reforço.
 
 ## Estrutura do Repositório
 
 - `markov_chain.py`: O script principal que define e simula a Cadeia de Markov. Ele pode ser executado diretamente para observar um exemplo de "caminhada" aleatória através dos estados.
-- `Q-Learning_SistIntel2025_Handout.tex`: Arquivo LaTeX que contém a descrição teórica e o diagrama da Cadeia de Markov que inspirou este código.
 - `requirements.txt`: Lista de dependências do projeto. Atualmente, o projeto não necessita de bibliotecas externas.
 - `.gitignore`: Arquivo para especificar arquivos e pastas a serem ignorados pelo Git.
 
