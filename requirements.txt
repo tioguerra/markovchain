@@ -1,0 +1,2 @@
+# Este projeto não possui dependências externas.
+# Todas as bibliotecas utilizadas são parte da instalação padrão do Python.
